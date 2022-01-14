@@ -4,8 +4,11 @@ public class TestCase002 {
 
     public static void main(String[] args) {
 
-        System.out.println("Dolma is cute");
+        for (int i = 0; i < 100; i++) {
 
 
+            System.out.println("Dolma is cute");
+
+        }
     }
 }
